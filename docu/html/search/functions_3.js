@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['calibrate',['calibrate',['../classDRV2605.html#a9d759060058916fe27ea5f1bf3a6e6cb',1,'DRV2605']]],
+  ['click_5fdisable',['click_disable',['../classLIS3DH.html#adb0d3d9fd18943cadc1e452541b50cef',1,'LIS3DH']]],
+  ['click_5fenable',['click_enable',['../classLIS3DH.html#a790c55b1acceccb9e3954bec4a817807',1,'LIS3DH']]],
+  ['compare_5fto',['compare_to',['../classString.html#a1fd5233f54aa450b51a7494ff9862d5d',1,'String']]],
+  ['concat',['concat',['../classString.html#ae92a8b91eebd7e131f5517c7dda514b1',1,'String::concat(const char *cstr)'],['../classString.html#a291367ed7121cad1e670d3ed74b811d8',1,'String::concat(const String &amp;str)'],['../classString.html#a9a0f8b71ddcd81eebccb79b7a176aff9',1,'String::concat(const FlashString *pstr)'],['../classString.html#adc7ad66b748dfa59926ff27c14d25962',1,'String::concat(char c)'],['../classString.html#aedf55f47fb691664e77e860599b7ac97',1,'String::concat(uint32_t num, num_base_t base=NUM_BASE_DEC)'],['../classString.html#acc07a4606e9e1151113083dc58c217ec',1,'String::concat(uint16_t num, num_base_t base=NUM_BASE_DEC)'],['../classString.html#acdeb09bb98f537a3039037cc112d71f3',1,'String::concat(uint8_t num, num_base_t base=NUM_BASE_DEC)'],['../classString.html#ab795c56c58716b0b9e02e7001005df88',1,'String::concat(int32_t num, num_base_t base=NUM_BASE_DEC)'],['../classString.html#a55c939baebe131672da9fd0608eed526',1,'String::concat(int16_t num, num_base_t base=NUM_BASE_DEC)'],['../classString.html#aa67c62dcb0aea0125d5e2852cedeaeb3',1,'String::concat(int8_t num, num_base_t base=NUM_BASE_DEC)'],['../classString.html#ab9e3de997c5f0e54b1ce55d761039c94',1,'String::concat(double num, uint8_t p=3)'],['../classString.html#aa4a18769b46b5a14f4ea12ad7b576e62',1,'String::concat(const char *cstr, size_t size)']]],
+  ['configure',['configure',['../classSPI_1_1Device.html#aadddacb5ed67c953f2f950c2047fac71',1,'SPI::Device']]],
+  ['copy',['copy',['../classString.html#a1b4c6280cc0d0566113b37ed1bbd324c',1,'String::copy(const char *cstr, size_t size)'],['../classString.html#a6fbd744f861e008efb513c5e441edcea',1,'String::copy(const FlashString *pstr, uint16_t size)']]]
+];

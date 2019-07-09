@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['b1',['b1',['../base_8h.html#a1577a78922e404ce64b9d26f8a383586',1,'u32_u8_t']]],
+  ['b2',['b2',['../base_8h.html#a5879c1e88a2c1aec9e5a54a297cf5706',1,'u32_u8_t']]],
+  ['bcharformat',['bCharFormat',['../usb__core_8h.html#a6765d6bd8842b04a9d9ba95fafd8eed2',1,'LineInfo']]],
+  ['bdatabits',['bDataBits',['../usb__core_8h.html#a3674fe987d34cae754776871a3d905d7',1,'LineInfo']]],
+  ['bdatainterface',['bDataInterface',['../usb__core_8h.html#a318ef2bc66d8983c9cc35720cf788126',1,'CMFunctionalDescriptor']]],
+  ['bdir_5fin',['BDIR_IN',['../drv2605__defs_8h.html#ae598483812592f36e0072fbccab5dcb3',1,'drv2605_reg_ctrl2_t']]],
+  ['bdu',['BDU',['../lis3dh__defs_8h.html#a1ac5ebe4816bbfc8c5560924f65c3f96',1,'lis3dh_reg_ctrl4_t']]],
+  ['bemf_5fgn',['BEMF_GN',['../drv2605__defs_8h.html#ab1cd4491f6460730b8a3e13455d7f3ef',1,'drv2605_reg_fbctrl_t']]],
+  ['bk_5ffctr',['BK_FCTR',['../drv2605__defs_8h.html#a7e7bf2fa0ba67cab5cd4f2917ed3bc38',1,'drv2605_reg_fbctrl_t']]],
+  ['bk_5fstb',['BK_STB',['../drv2605__defs_8h.html#a181db3037ac4a210f264f65b2adf8e56',1,'drv2605_reg_ctrl2_t']]],
+  ['ble',['BLE',['../lis3dh__defs_8h.html#ab3c6f055cc8f9d9614d048b3bb445b43',1,'lis3dh_reg_ctrl4_t']]],
+  ['blkg_5ftm',['BLKG_TM',['../drv2605__defs_8h.html#a384abe850253a919e138596599a157d6',1,'drv2605_reg_ctrl2_t::BLKG_TM()'],['../drv2605__defs_8h.html#a2d1c060553b3a2994b5f846ed4327410',1,'drv2605_reg_ctrl5_t::BLKG_TM()']]],
+  ['bmcapabilities',['bmCapabilities',['../usb__core_8h.html#a4633e21f38d5f823af1d74128611f185',1,'CMFunctionalDescriptor::bmCapabilities()'],['../usb__core_8h.html#a0430c341c87f137082ccb8ee92a1cadd',1,'ACMFunctionalDescriptor::bmCapabilities()']]],
+  ['bnumconfigurations',['bNumConfigurations',['../usb__core_8h.html#a50bb8119059578840fdd8d7e3b2d1ec3',1,'DeviceDescriptor']]],
+  ['boot',['BOOT',['../lis3dh__defs_8h.html#af926080438d1076becf56460ba3a4fbd',1,'lis3dh_reg_ctrl5_t']]],
+  ['bparitytype',['bParityType',['../usb__core_8h.html#a326c61e20ef195ac5a03fb38fc0fb209',1,'LineInfo']]]
+];

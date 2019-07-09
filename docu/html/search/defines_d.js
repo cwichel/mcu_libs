@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['rad',['RAD',['../base_8h.html#a17caee25cc2ce778720932fb40aa6c38',1,'base.h']]],
+  ['rad_5f2_5fdeg',['RAD_2_DEG',['../base_8h.html#a7cc378d5a4e034adadb7cd892d707714',1,'base.h']]],
+  ['request_5fclass',['REQUEST_CLASS',['../usb__core_8h.html#afd24e03239e2df9e6d9c6cbcd53c1337',1,'usb_core.h']]],
+  ['request_5fdevice',['REQUEST_DEVICE',['../usb__core_8h.html#aa9d346dd935cf10fd2918cfb68254be7',1,'usb_core.h']]],
+  ['request_5fdevicetohost',['REQUEST_DEVICETOHOST',['../usb__core_8h.html#a4c6ea3bc81f190df4b672b610a5be157',1,'usb_core.h']]],
+  ['request_5fdevicetohost_5fclass_5finterface',['REQUEST_DEVICETOHOST_CLASS_INTERFACE',['../usb__core_8h.html#abbe36a6ce3458c738f0c783527e26cdc',1,'usb_core.h']]],
+  ['request_5fdevicetohost_5fstandard_5finterface',['REQUEST_DEVICETOHOST_STANDARD_INTERFACE',['../usb__core_8h.html#adb28397dccbdf31e1d579822d3723750',1,'usb_core.h']]],
+  ['request_5fdirection',['REQUEST_DIRECTION',['../usb__core_8h.html#a843ac11b6071e30f9c60e2f194c4d3d9',1,'usb_core.h']]],
+  ['request_5fendpoint',['REQUEST_ENDPOINT',['../usb__core_8h.html#a45062eac8a589bbbd732dd1810bee872',1,'usb_core.h']]],
+  ['request_5fhosttodevice',['REQUEST_HOSTTODEVICE',['../usb__core_8h.html#a726c73bc862ffdb626ae23f7c9d3fb1e',1,'usb_core.h']]],
+  ['request_5fhosttodevice_5fclass_5finterface',['REQUEST_HOSTTODEVICE_CLASS_INTERFACE',['../usb__core_8h.html#ab0e7948070353c754edb94260c759518',1,'usb_core.h']]],
+  ['request_5finterface',['REQUEST_INTERFACE',['../usb__core_8h.html#acc603a2523c52f6d06d4cb25dabe26ed',1,'usb_core.h']]],
+  ['request_5fother',['REQUEST_OTHER',['../usb__core_8h.html#ac83167ac664e91891ac561d29ed53e99',1,'usb_core.h']]],
+  ['request_5frecipient',['REQUEST_RECIPIENT',['../usb__core_8h.html#aad5c36b4f5d06a0bc898bddb5f46e790',1,'usb_core.h']]],
+  ['request_5fstandard',['REQUEST_STANDARD',['../usb__core_8h.html#a1dd6ef57678e7af95d835049d5b355b9',1,'usb_core.h']]],
+  ['request_5ftype',['REQUEST_TYPE',['../usb__core_8h.html#a77263d461d2c46ff6fbd2a5b7080e2a8',1,'usb_core.h']]],
+  ['request_5fvendor',['REQUEST_VENDOR',['../usb__core_8h.html#a40131e4daec200a7d931c2b26e43d27f',1,'usb_core.h']]]
+];

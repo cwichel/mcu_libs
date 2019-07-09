@@ -1,0 +1,25 @@
+var usb__desc_8h =
+[
+    [ "USB_VID", "usb__desc_8h.html#a3398c7225386f04c72fd9025fcb44734", null ],
+    [ "USB_PID", "usb__desc_8h.html#a989c980e0b99f803f7ce0ca224cdb733", null ],
+    [ "PLUGGABLE_USB_ENABLED", "usb__desc_8h.html#ad05bf6b3b632b6daa135f54ed9e04ca8", null ],
+    [ "USB_ENDPOINTS", "usb__desc_8h.html#abb522a0b27a2f1987bd33768b1478bbb", null ],
+    [ "ISERIAL_MAX_LEN", "usb__desc_8h.html#a86b627b61f50a8a9c0e44ea484ba2879", null ],
+    [ "CDC_INTERFACE_COUNT", "usb__desc_8h.html#ac8b9be08a623d57edd9d0e32d72e3baf", null ],
+    [ "CDC_ENPOINT_COUNT", "usb__desc_8h.html#abe35f2e7779f6e30739cd5dc546044b7", null ],
+    [ "CDC_ACM_INTERFACE", "usb__desc_8h.html#ac45e2a2342e64fc731ffe34bb2c4e9a9", null ],
+    [ "CDC_DATA_INTERFACE", "usb__desc_8h.html#acca5428541dbcfc5fae226a65a97b5a5", null ],
+    [ "CDC_FIRST_ENDPOINT", "usb__desc_8h.html#ae31459f6ee1b39b5f78189d2072beb02", null ],
+    [ "CDC_ENDPOINT_ACM", "usb__desc_8h.html#adc2f51b1eeb02bcd773afd00c4171fd9", null ],
+    [ "CDC_ENDPOINT_OUT", "usb__desc_8h.html#ab9cc04dea340961778b72143d568e634", null ],
+    [ "CDC_ENDPOINT_IN", "usb__desc_8h.html#a25943b1340c9111e6dcaecd4bc1c8c78", null ],
+    [ "INTERFACE_COUNT", "usb__desc_8h.html#ac84e09678ad7a1ea829232bc76f8c15e", null ],
+    [ "CDC_RX", "usb__desc_8h.html#a4ec9d37fecdddaba921c8ebf7409607e", null ],
+    [ "CDC_TX", "usb__desc_8h.html#a759a2e37ab46fa98167f90c06e06c5c0", null ],
+    [ "IMANUFACTURER", "usb__desc_8h.html#aede73c702d4d5e6cd530c3bdbcc61bca", null ],
+    [ "IPRODUCT", "usb__desc_8h.html#a72c0cbe19169972aa2709754db3b9c71", null ],
+    [ "ISERIAL", "usb__desc_8h.html#a9ace5bd19437ce3d00796e1044614b9c", null ],
+    [ "MAGIC_KEY", "usb__desc_8h.html#a32e335ab2a7c91f20d2e5c7305517925", null ],
+    [ "MAGIC_KEY_POS", "usb__desc_8h.html#a586bf7d5f9b84b69256dc60025f9870b", null ],
+    [ "NEW_LUFA_SIGNATURE", "usb__desc_8h.html#a5ee0c1b3d50f7398cdd3c49010eb7c9c", null ]
+];

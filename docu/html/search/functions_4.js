@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['delay_5fmicros',['delay_micros',['../timing_8cpp.html#ae065ead6e4681d8e0ed087d47b19737d',1,'delay_micros(uint16_t us):&#160;timing.cpp'],['../timing_8h.html#ae065ead6e4681d8e0ed087d47b19737d',1,'delay_micros(uint16_t us):&#160;timing.cpp']]],
+  ['delay_5fmillis',['delay_millis',['../timing_8cpp.html#a45614e3608e7de06611ea81731740f18',1,'delay_millis(uint32_t ms):&#160;timing.cpp'],['../timing_8h.html#a45614e3608e7de06611ea81731740f18',1,'delay_millis(uint32_t ms):&#160;timing.cpp']]],
+  ['delete_5finstance',['delete_instance',['../classSPI.html#a47da0816c6535448ef2d900c8df0f6f4',1,'SPI::delete_instance()'],['../classTIMER16.html#aa01f88ef7bc2670be6a50348643b56df',1,'TIMER16::delete_instance()'],['../classTIMER8.html#abebe453528be1bc6e5f703f1128c99c3',1,'TIMER8::delete_instance()'],['../classTWI.html#a2ae36a565021a46957deb6c8d7414a0e',1,'TWI::delete_instance()'],['../classUART.html#a51463163f2d6417d00e0024acb6799bd',1,'UART::delete_instance()']]],
+  ['device',['Device',['../classSPI_1_1Device.html#abc817d6d399b22c2cfb30badba36a1b1',1,'SPI::Device::Device(void)'],['../classSPI_1_1Device.html#a9c55618e80dc17fd3cb967a18aaa1609',1,'SPI::Device::Device(SPI *spi, pins_t ss_pin, bool dev_on=false)'],['../classTWI_1_1Device.html#af6f4252991362d446b322d19cdeaab30',1,'TWI::Device::Device(void)'],['../classTWI_1_1Device.html#a6e8a512a79baa3c5aa97a68290ed52e3',1,'TWI::Device::Device(TWI *twi, uint8_t addr)']]],
+  ['disable',['disable',['../classSPI.html#a31d12b228353993e370ed135245f2191',1,'SPI::disable()'],['../classTWI.html#a076d25543d1ad92b08e9eb68163bf470',1,'TWI::disable()'],['../classUART.html#aa79761cc0a30ca6ef9ebe950cc561d5f',1,'UART::disable()']]],
+  ['drv2605',['DRV2605',['../classDRV2605.html#aacae2fe24d2e2d0860b48bc47ec00d8c',1,'DRV2605::DRV2605(TWI *twi)'],['../classDRV2605.html#aa17cf61971cb09ac0538f2b1b463cd92',1,'DRV2605::DRV2605(TWI *twi, pins_t en_pin)']]]
+];

@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['d0',['d0',['../usb__core_8h.html#a79837689bbe63fbaf89a96ab944d018b',1,'CDCCSInterfaceDescriptor::d0()'],['../usb__core_8h.html#ab58b372c9d590078f9a179577d2dab50',1,'CDCCSInterfaceDescriptor4::d0()']]],
+  ['d1',['d1',['../usb__core_8h.html#a211f930fce407c3aeb1d1451edbaf03a',1,'CDCCSInterfaceDescriptor']]],
+  ['d_5ffmt_5frtp',['D_FMT_RTP',['../drv2605__defs_8h.html#a173a8aca41c933398e68364c8b20ff9d',1,'drv2605_reg_ctrl3_t']]],
+  ['data_5fready',['data_ready',['../lis3dh__defs_8h.html#a0aebee668a4b0700c1df8556e90b5d62',1,'lis3dh_int_src_t']]],
+  ['dclick',['DCLICK',['../lis3dh__defs_8h.html#abe8377a2e69abb65bf64e4951a5172be',1,'lis3dh_reg_click_src_t']]],
+  ['ddr',['DDR',['../gpio_8h.html#aa37ec4fc185119bf4cd7df8232b8463e',1,'gpio_reg_t']]],
+  ['dev_5fid',['DEV_ID',['../drv2605__defs_8h.html#ac3a52bccddfab65946b9b128b969c829',1,'drv2605_reg_stat_t']]],
+  ['dev_5frst',['DEV_RST',['../drv2605__defs_8h.html#ac893390e9308905b8609dc8b5dc07016',1,'drv2605_reg_mode_t']]],
+  ['deviceclass',['deviceClass',['../usb__core_8h.html#a3fe1d9631e3f06c76a1e96a92b3c5c68',1,'DeviceDescriptor']]],
+  ['deviceprotocol',['deviceProtocol',['../usb__core_8h.html#a2a4aa69baf122782e76f23a95b9246df',1,'DeviceDescriptor']]],
+  ['devicesubclass',['deviceSubClass',['../usb__core_8h.html#aeb7317ea9a0a0bc94dc7aa565c1c4148',1,'DeviceDescriptor']]],
+  ['deviceversion',['deviceVersion',['../usb__core_8h.html#aaf837badf84df90e58d999b27869276b',1,'DeviceDescriptor']]],
+  ['diag_5fres',['DIAG_RES',['../drv2605__defs_8h.html#aac57b9ee85ddf22fd53b03869697fdf4',1,'drv2605_reg_stat_t']]],
+  ['dif',['dif',['../usb__core_8h.html#ad9e994faf01eac6b9a5ae31d2c028e02',1,'CDCDescriptor']]],
+  ['dor',['dor',['../uart__defs_8h.html#a7221988d8d8ebf59c20a5268fec265f6',1,'uart_ucsra_t']]],
+  ['dord',['dord',['../spi__defs_8h.html#a5db00f843f52a1ab8ef28c127e46bd94',1,'spi_spcr_t']]],
+  ['drv_5ftm',['DRV_TM',['../drv2605__defs_8h.html#a5a37780b88e76ba92d221a29be3d690c',1,'drv2605_reg_ctrl1_t']]],
+  ['dtype',['dtype',['../usb__core_8h.html#a2fe2871f294c36ffdb7f034ea660a8f8',1,'DeviceDescriptor::dtype()'],['../usb__core_8h.html#ae7ce820c169f678f10256b785f4d2af4',1,'ConfigDescriptor::dtype()'],['../usb__core_8h.html#a6fabe9de320b3b13171e3c17f8c55dcf',1,'InterfaceDescriptor::dtype()'],['../usb__core_8h.html#a66f0f0c5442c7195f5b0aee1ec7b8e0a',1,'EndpointDescriptor::dtype()'],['../usb__core_8h.html#a6f5e4a25153d6d0353b4ab34bc214ec2',1,'IADDescriptor::dtype()'],['../usb__core_8h.html#a58252d8ce8fec66e8c0d56a21783ff82',1,'CDCCSInterfaceDescriptor::dtype()'],['../usb__core_8h.html#ab9e69691ce3e4ae88a2c22b5e2d54b7f',1,'CDCCSInterfaceDescriptor4::dtype()'],['../usb__core_8h.html#a5f323d6dcdf0ea1be095203e98365984',1,'CMFunctionalDescriptor::dtype()'],['../usb__core_8h.html#ac806f76305b3c9f083db638d9558765a',1,'ACMFunctionalDescriptor::dtype()']]],
+  ['dwdterate',['dwDTERate',['../usb__core_8h.html#aaacea931f4c9ce6ce0a19de7bbf4d7a4',1,'LineInfo']]]
+];

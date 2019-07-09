@@ -1,0 +1,27 @@
+var classTIMER8 =
+[
+    [ "TIMER8", "classTIMER8.html#a522cf6d562cca4f31b93e288a9235f87", null ],
+    [ "init", "classTIMER8.html#a2bd16ae6b4b37daab601c4031d479f8f", null ],
+    [ "init", "classTIMER8.html#a26aa3dc08f9d2a5a483b8f1df43ddbfe", null ],
+    [ "set_period", "classTIMER8.html#aa3caa6855e03580aa48a2d53ac5ff04e", null ],
+    [ "set_period", "classTIMER8.html#ab24a6bff91f0007759917322b5be1073", null ],
+    [ "int_attach", "classTIMER8.html#a9fa21f2add1d04aa4a14688b456e9be5", null ],
+    [ "int_detach", "classTIMER8.html#aa76bbf0e147170cc8798af6b8f5e03b3", null ],
+    [ "start", "classTIMER8.html#a3211876af5c2595d981b512dffc7620e", null ],
+    [ "stop", "classTIMER8.html#a9b00ebf8f13f4333608f59efe7b45352", null ],
+    [ "resume", "classTIMER8.html#a6afd8b904e27b2a43a216124b62c9fc8", null ],
+    [ "restart", "classTIMER8.html#a790cf5be26eff0560ba61a786f31ada3", null ],
+    [ "pwm_enable", "classTIMER8.html#a4d04152c80089f42c83d113ad3e6f99d", null ],
+    [ "pwm_disable", "classTIMER8.html#abebea281870ded2f86805704f6a7b3c8", null ],
+    [ "set_pwm_duty", "classTIMER8.html#a861fec90ca9665470b479cbf46d9d5a9", null ],
+    [ "get_pwm_from_pin", "classTIMER8.html#a243315ac2a88421273d4788487db72a2", null ],
+    [ "_inst", "classTIMER8.html#a87422d5c082c7920ffd462dae0ce16e7", null ],
+    [ "_ctrl", "classTIMER8.html#a5bedff5f8556600ecbfc558bf9a91bab", null ],
+    [ "_cfg", "classTIMER8.html#ae5de78784fc8d970d5740d917d861343", null ],
+    [ "_int", "classTIMER8.html#a013575f1c05ce3a2483b8bd365907e3b", null ],
+    [ "_mode", "classTIMER8.html#aface17cf2e94d83da7f4771f5c4e1e8d", null ],
+    [ "_clk_sel", "classTIMER8.html#aa2cd140c5c3945d57b97e2bab85eb2fb", null ],
+    [ "_period", "classTIMER8.html#a7646931cfc52807640ba39a99d9c7d53", null ],
+    [ "_is_fixed", "classTIMER8.html#a75cb98571cb2492bd8f866ac82f5eaae", null ],
+    [ "_timer_callback", "classTIMER8.html#abf83a0d451e3f1f137e3f9cf08a38229", null ]
+];
